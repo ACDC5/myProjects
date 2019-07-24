@@ -1,0 +1,27 @@
+#文件夹
+target
+Include
+Lib
+Scripts
+
+#文件
+*.pyd
+*.json
+*.cfg
+*.ps*
+*.bat
+.classpath 
+.project 
+.settings 
+##filter databfile、sln file## 
+*.mdb 
+*.ldb 
+*.sln
+
+class file
+*.com 
+*.class 
+*.dll 
+*.exe 
+*.o 
+*.so
